@@ -1,27 +1,23 @@
 ![Banner Image](banner.png)
 
-# Hi there 👋 I'm Mohammed 
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/MohammedKhudair">
-      <img src="https://img.shields.io/github/followers/MohammedKhudair?label=Follow&style=social" alt="GitHub followers"/>
-    </a>
-    &nbsp;&nbsp;
     <a href="https://www.youtube.com/@AndroidDojo">
-      <img src="https://img.shields.io/youtube/channel/subscribers/AndroidDojo?style=social" alt="YouTube Channel Subscribers"/>
+      <img src="https://img.shields.io/badge/YouTube-AndroidDojo-red?style=flat-square&logo=youtube" alt="YouTube"/>
     </a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/YourLinkedInProfile">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/mohammed-khudair-4797b8177">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
-    &nbsp;&nbsp;
-    <a href="https://medium.com/@YourMediumUsername">
-      <img src="https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium" alt="Medium"/>
+    <a href="https://medium.com/@mohammedkhudair57">
+      <img src="https://img.shields.io/badge/Medium-Follow-black?style=flat-square&logo=medium" alt="Medium"/>
     </a>
   </p>
+</div>
+  
+# Hi there 👋 I'm Mohammed 
 
-## 🚀 My Story
+## My Story
 
 From my first "Hello, World!" to building innovative solutions, my journey in tech has always been about curiosity, creativity, and connection. I love weaving code into stories that solve problems and inspire others. My mission? To make technology accessible, expressive, and impactful for everyone.
 
@@ -89,7 +85,7 @@ From my first "Hello, World!" to building innovative solutions, my journey in te
       </a>
     </td>
     <td width="33%" align="center">
-      <a href="https://medium.com/@YourUsername">
+      <a href="https://medium.com/@mohammedkhudair57">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
         <br/>
         <sub><b>Industry Insights</b></sub>
@@ -108,7 +104,7 @@ From my first "Hello, World!" to building innovative solutions, my journey in te
 
 ---
 
-## 🏆 Featured Projects
+## Projects
 
 <div align="center">
 <table>
@@ -116,21 +112,19 @@ From my first "Hello, World!" to building innovative solutions, my journey in te
     <td width="50%">
       <h3 align="center">Project 1</h3>
       <div align="center">
-        <a href="https://github.com/MohammedKhudair/Project1" target="_blank">
-          <img src="https://via.placeholder.com/300x200" width="300" alt="Project 1"/>
+        <a href="https://github.com/MohammedKhudair/Babel-Restaurant" target="_blank">
+          <img src="https://github.com/MohammedKhudair/Babel-Restaurant/blob/main/screenshots/Intro1.jpg" width="100" height="" alt="Babel-Restaurant"/>
         </a>
-        <p><strong>Technologies:</strong> Kotlin, Jetpack Compose, MVVM</p>
-        <p>Brief description of the project and its impact.</p>
+        <p>BabilRestaurant, a single-restaurant food ordering app built for a seamless dining experience! Whether you’re craving a midnight snack or a hearty meal, BabilRestaurant makes ordering easy, fast, and enjoyable..</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Project 2</h3>
       <div align="center">
-        <a href="https://github.com/MohammedKhudair/Project2" target="_blank">
-          <img src="https://via.placeholder.com/300x200" width="300" alt="Project 2"/>
+        <a href="https://github.com/MohammedKhudair/News-App" target="_blank">
+          <img src="https://github.com/MohammedKhudair/News-App/blob/main/screenshots/home_page.jpg" width="100" alt="Project 2"/>
         </a>
-        <p><strong>Technologies:</strong> Android SDK, Firebase, KMM</p>
-        <p>Brief description of the project and its impact.</p>
+        <p>News-App is a modern Android application designed to deliver up-to-date news from various sources directly to your device. Built with Kotlin and leveraging the power of OpenAPI.</p>
       </div>
     </td>
   </tr>
