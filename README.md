@@ -78,7 +78,7 @@ From my first "Hello, World!" to building innovative solutions, my journey in te
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://dev.to/YourUsername">
+      <a href="https://dev.to/mohammed_57">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
         <br/>
         <sub><b>Technical Deep Dives</b></sub>
@@ -92,7 +92,7 @@ From my first "Hello, World!" to building innovative solutions, my journey in te
       </a>
     </td>
     <td width="33%" align="center">
-      <a href="https://hashnode.com/@YourUsername">
+      <a href="https://hashnode.com/@mohammed57">
         <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
         <br/>
         <sub><b>Tutorial Series</b></sub>
